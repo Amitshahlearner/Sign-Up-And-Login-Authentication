@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sign-Up-And-Login-Authentication/static/css/main.b81478ed.css",
+    "main.js": "/Sign-Up-And-Login-Authentication/static/js/main.c99da7be.js",
+    "static/js/787.172b9fe2.chunk.js": "/Sign-Up-And-Login-Authentication/static/js/787.172b9fe2.chunk.js",
+    "index.html": "/Sign-Up-And-Login-Authentication/index.html",
+    "main.b81478ed.css.map": "/Sign-Up-And-Login-Authentication/static/css/main.b81478ed.css.map",
+    "main.c99da7be.js.map": "/Sign-Up-And-Login-Authentication/static/js/main.c99da7be.js.map",
+    "787.172b9fe2.chunk.js.map": "/Sign-Up-And-Login-Authentication/static/js/787.172b9fe2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81478ed.css",
+    "static/js/main.c99da7be.js"
+  ]
+}
